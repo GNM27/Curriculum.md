@@ -1,11 +1,11 @@
 # Curriculum
 ---
 ## Sobre mi
- Nombre **Gonzalo** 
+ Nombre:  **Gonzalo** 
  
  &nbsp;
  
- Apellidos **Nieto Maneu**
+ Apellidos:  **Nieto Maneu**
  
  &nbsp;
  
