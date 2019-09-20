@@ -4,11 +4,11 @@
 
 ### Sobre mi
 
-* Nombre **Gonzalo** 
+* Nombre * **Gonzalo** 
 * Apellidos **Nieto Maneu**
 * Edad **18**
 * E-mail *gonzalonietomaneu27@gmail.com*
-* Instituto [Camí de Mar](https://www.inscamidemar.cat)
+* Instituto [CamÃ­ de Mar](https://www.inscamidemar.cat)
 
 ### Mis estudios
 
