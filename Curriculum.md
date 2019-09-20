@@ -4,7 +4,8 @@
 
 ### Sobre mi
 
-* Nombre * **Gonzalo** 
+* Nombre 
+**Gonzalo** 
 * Apellidos **Nieto Maneu**
 * Edad **18**
 * E-mail *gonzalonietomaneu27@gmail.com*
