@@ -1,12 +1,10 @@
 # Curriculum
-
-## Sobre mi
 ---
+## Sobre mi
  Nombre **Gonzalo** 
- 
  &nbsp;
- 
  Apellidos **Nieto Maneu**
+ &nbsp;
  Edad **18**
  E-mail *gonzalonietomaneu27@gmail.com*
  Instituto [Camí de Mar](https://www.inscamidemar.cat)
