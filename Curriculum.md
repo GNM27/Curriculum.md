@@ -1,10 +1,11 @@
 # Curriculum
 
-***
-
 ## Sobre mi
-
- ### Nombre **Gonzalo** 
+---
+ Nombre **Gonzalo** 
+ 
+ &nbsp;
+ 
  Apellidos **Nieto Maneu**
  Edad **18**
  E-mail *gonzalonietomaneu27@gmail.com*
