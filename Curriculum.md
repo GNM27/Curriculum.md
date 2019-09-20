@@ -3,16 +3,13 @@
 ## Sobre mi
  Nombre:  **Gonzalo** 
  
- &nbsp;
- 
+ &nbsp; 
  Apellidos:  **Nieto Maneu**
  
  &nbsp;
- 
  Edad **18**
  
  &nbsp;
- 
  E-mail *gonzalonietomaneu27@gmail.com*
  
  &nbsp;
