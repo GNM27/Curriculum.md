@@ -7,13 +7,13 @@
  Apellidos:  **Nieto Maneu**
  
  &nbsp;
- Edad **18**
+ Edad:  **18**
  
  &nbsp;
- E-mail *gonzalonietomaneu27@gmail.com*
+ E-mail:  *gonzalonietomaneu27@gmail.com*
  
  &nbsp;
- Instituto [Camí de Mar](https://www.inscamidemar.cat)
+ Instituto:  [Camí de Mar](https://www.inscamidemar.cat)
 
 ## Mis estudios
 
@@ -22,4 +22,4 @@
 
 ## Mis aficiones
 
-Me gusta ir al gimnasio y quedar con amigos.
+Me gusta ir al gimnasio, quedar con amigos y jugar a videojuegos.
