@@ -10,13 +10,18 @@
  &nbsp;
  
  Edad **18**
+ 
+ &nbsp;
+ 
  E-mail *gonzalonietomaneu27@gmail.com*
+ 
+ &nbsp;
  Instituto [Camí de Mar](https://www.inscamidemar.cat)
 
 ## Mis estudios
 
-1. SMX 
-2. DAW (Actual)
+* SMX 
+* DAW (Actual)
 
 ## Mis aficiones
 
