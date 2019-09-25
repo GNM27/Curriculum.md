@@ -28,6 +28,17 @@
 | Catalán  | Alto   |
 | Inglés | Medio  |
 
+## Experiencia Laboral
+
+*IT Technician* en *Intrust Communications*
+mar.de 2019 - jun de 2019 · 4 meses
+Unit 1 Watterfront Business Park , Wallingstown , Litlle Island Co.Cork, Ireland
+
+*Computer assistant* en *Artaniro*
+jun. de 2018 - sept. de 2018 · 4 meses
+El Vendrell , Catalunya , Spain
+
+
 ## Mis aficiones
 
 Me gusta ir al *gimnasio* , quedar con *amigos* y jugar a *videojuegos* .
